@@ -1,1 +1,4 @@
-resolver: lts-6.0
+resolver: nightly-2017-11-01
+
+packages:
+  - .
